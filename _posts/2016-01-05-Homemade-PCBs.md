@@ -7,7 +7,7 @@ tags: [PCB, Electronics, BrotherPrinter]
 image:
   path: /assets/img/posts/Homemade-PCBs/pcb-etch.jpg
 ---
-So I've done a bunch of tests with different paper, and the best paper I found for the job was this yellow stuff off of ebay <a href="http://ebay.to/1V9jXQ4">here</a>. I think this is the key part to getting such good results.
+So I've done a bunch of tests with different paper, and the best paper I found for the job was some yellow stuff off of ebay. I think this is the key part to getting such good results.
 
 It took a couple of tries to get the toner to stick to it, but in the end I got it working by taping a piece of it to some plan paper with kapton tape.
 <figure class="half">
