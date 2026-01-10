@@ -5,7 +5,7 @@ categories: [Nissan, Z31]
 tags: [z31, 300zx, nissan]     # TAG names should always be lowercase
 description: A 3D printable redesign of the easily broken Z31 door latch mechanism.
 image:
-  path: /assets/img/posts/300zxDoorLockRedesign/cover.jpeg
+  path: /assets/img/posts/300zxDoorLockRedesign/cover.JPEG
 ---
 
 Have you ever been stuck in your z31 because your door lock isn't unlocking? I have, and climbing out of the driver's seat to get to the passenger door without getting impaled by the shifter really sucked.
